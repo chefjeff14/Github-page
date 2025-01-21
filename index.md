@@ -1,5 +1,5 @@
 
-<h1>Nah imma do my own thing</h1>
+<h2>Nah imma do my own thing</h2>
 ---
 title: Welcome to my blog
 author: chefjeff
